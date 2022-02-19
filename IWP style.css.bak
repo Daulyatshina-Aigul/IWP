@@ -1,0 +1,27 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap') */
+/* цвет серый #dfe3e4  */
+/* цвет черный #20232a */
+/* цвет бежевый #f7f5f5 */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body{
+	background-color: #1e2327;
+	color: #f7f5f5;
+	font-size: 16px;
+	font-weight: normal;
+	font-family: 'Roboto', sans-serif;
+}
+
+.mainfoto{
+	width: 200px;
+	box-shadow: 4px 4px 14px #fff;
+	
+}
+
+.info h1{
+	letter-spacing: 8px;
+	word-spacing: 10px;
+}
+
+.container{
+	max-width: 90%;
+}
